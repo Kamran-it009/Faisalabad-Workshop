@@ -1,1 +1,1 @@
-# Faisalabad-Workshop
+# Generative AI
