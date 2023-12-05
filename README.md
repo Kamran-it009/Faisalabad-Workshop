@@ -1,1 +1,4 @@
-# Generative AI
+# Artificial Intelligence
+### Machine Learning
+### Deep Learning
+### Generative AI
